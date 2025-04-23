@@ -17,6 +17,15 @@
 
 This data analysis project aims to providean analytical view of sales trends, key performance indicators (KPIs), and business insights. This analysis helps to assist in monitoring sales performance across different branches, product lines, and sales agents. It is also interactive, allowing users to filter data dynamically using an interactive dashboard.
 
+![sales_per_agent](https://github.com/user-attachments/assets/1dcc7c64-37a9-4b57-9480-45d5c5ec437a)
+
+![sales_distribution_branch_pie](https://github.com/user-attachments/assets/31fef423-d4ca-43ff-801b-a005fa89178f)
+
+![(sales_trend_chart](https://github.com/user-attachments/assets/b57e7fd5-d817-46a5-b954-7008888526b9)
+
+![sales_distribution_pie](https://github.com/user-attachments/assets/c9a68a1a-b884-40d2-8ef9-ecfa6489331c)
+
+
 ### Data Sources
 
 The data was sourced from Fusion Mart’s sales records, including transactional details such as date of sale, product type, branch, total revenue, and customer feedback. The primary sources included CSV/Excel files, SQL databases, and Power BI reports.
