@@ -14,7 +14,7 @@
 - [References](#references)
 
 ### Project Overview
-
+---
 This data analysis project aims to providean analytical view of sales trends, key performance indicators (KPIs), and business insights. This analysis helps to assist in monitoring sales performance across different branches, product lines, and sales agents. It is also interactive, allowing users to filter data dynamically using an interactive dashboard.
 
 ![sales_per_agent](https://github.com/user-attachments/assets/1dcc7c64-37a9-4b57-9480-45d5c5ec437a)
@@ -27,15 +27,17 @@ This data analysis project aims to providean analytical view of sales trends, ke
 
 
 ### Data Sources
-
+---
 The data was sourced from Fusion Mart’s sales records, including transactional details such as date of sale, product type, branch, total revenue, and customer feedback. The primary sources included CSV/Excel files, SQL databases, and Power BI reports.
 ### Tools
-
+---
 - Excel (.xlsx) – Used for data collection, preprocessing, and preliminary analysis like cleaning. [Download here](https://microsoft.com)
 - SQL Databases – Used to store and retrieve structured sales data. [Download here](https://mysql.com)
 - Power BI (.pbix) – Used for data visualization and interactive dashboard creation. [Download here](https://microsoft.com)
 
 ### Data Cleaning
+---
+
 Before analysis, the raw data was cleaned and processed using the following techniques:
 -	Handling missing values by filling gaps with appropriate estimates or removing incomplete records.
 -	Standardizing column names for consistency.
@@ -44,7 +46,7 @@ Before analysis, the raw data was cleaned and processed using the following tech
 -	Ensuring correct data types for each field (e.g., dates, numerical values).
 
   ### Explanatory Data Analysis
-
+---
  This involves sales performance data to answer key questions, such as :
  - What is the overall sales?
  - Which products are top sellers?
@@ -57,7 +59,7 @@ Before analysis, the raw data was cleaned and processed using the following tech
  - What strategies can be implemented to improve underperforming areas?
 
    ### Data Analysis
-
+ ----
    The data was analyzed using various techniques to extract meaningful insights like:
    Key analytical methods using PowerBI included:
 -	Descriptive statistics to summarize sales performance (e.g., total revenue, average order value).
@@ -78,7 +80,7 @@ Some interesting codes are:
   ```
 
 ### Results
-
+---
 The following KPIs provide an overview of Fusion Mart’s sales performance:
 -	Total Sales: $306,100
 -	Total Profit: $43,620
@@ -97,19 +99,19 @@ The analysis are summarized a follows:
 -	Lowest Sales Month: February ($92,589)
 
 ### Recommendations
-
+---
 - The management team can use this data to provide incentives to high-performing agents and offer additional training to those who need support.
 - Optimize inventory based on product sales trends.
 -	Enhance promotional campaigns during low-sales months.
 -	Improve data-driven decision-making through continuous analytics monitoring.
   
 ### Limitations
-
+---
 - Some records were incomplete informations which was affecting accuracy.
 - The analysis was performed within a limited time frame, which restricted deeper insights.
 
 ### References
-
+---
 1. Data Science for Business" by Provost & Fawcett
 2. Salesforce Blog:https://www.salesforce.com/blog/
    
